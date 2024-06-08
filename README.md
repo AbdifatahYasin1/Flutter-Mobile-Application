@@ -2,50 +2,65 @@
 
 Here you will find resources to help you master building mobile applications using the Flutter framework. Flutter is a popular open-source mobile app development toolkit created by Google, allowing you to develop high-performance, visually attractive, and natively compiled applications for both iOS and Android platforms from a single codebase.
 
+Here is the corrected and arranged version of the instructions in Markdown format:
 
-## What Makes Flutter Unique?
+## Installing Flutter and Android Studio
 
-There are several key factors that distinguish Flutter and make it a compelling choice for mobile application development:
+### Git Installation
 
-1. **Cross-Platform Development**: Flutter allows developers to build native-looking mobile apps for both iOS and Android platforms using a single codebase. This significantly reduces development time and costs compared to building separate native apps.
+1. Check if Git is installed on your computer by running `git` in the command prompt.
+2. Download and install Git for Windows: [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
-2. **High-Performance**: Flutter is built using the Dart programming language, which compiles to native code and provides excellent performance, delivering a smooth, responsive user experience.
+### Flutter Installation
 
-3. **Expressive and Flexible UI**: Flutter's rich set of customizable widgets and powerful rendering engine enable developers to create visually stunning and highly interactive user interfaces.
+1. Go to the Flutter website and download the Flutter SDK: [https://flutter-ko.dev/get-started/install](https://flutter-ko.dev/get-started/install)
+2. Select the operating system you are installing Flutter on.
+3. To install and run Flutter, your development environment must meet these minimum requirements:
+   - Operating Systems: Windows 10 or later (64-bit), x86-64 based.
+   - Disk Space: 1.64 GB (does not include disk space for IDE/tools).
+   - Tools: Flutter depends on these tools being available in your environment:
+     - Windows PowerShell 5.0 or newer (pre-installed with Windows 10)
+     - Git for Windows 2.x, with the "Use Git from the Windows Command Prompt" option.
+4. Download the Flutter zip file: `Flutter_windows_3.22.1-stable.zip`.
+5. Extract the zip file to `C:\src`.
+6. Run `flutter doctor` in the command prompt. If Flutter is not recognized, you need to correct the path.
+7. To correct the path, go to `C:\src\flutter\bin`, search for "environment" in the Windows search bar, click "Environment Variables", and add the Flutter bin folder to the "Path" user variable.
+8. Run `flutter doctor` again to check if Flutter is installed correctly.
 
-4. **Fast Development Iteration**: Flutter's "hot reload" feature allows developers to see code changes instantly without the need to restart the app, enabling rapid iteration and experimentation.
+### Android Studio Installation
 
-5. **Open-Source and Growing Community**: Flutter is an open-source project with a rapidly growing community of developers, ensuring a wealth of resources, libraries, and support available.
+1. Download and install Android Studio: [https://developer.android.com/studio](https://developer.android.com/studio)
+2. Download the emulator from Android Studio.
+3. Open Android Studio.
+4. Go to the Device Manager, click "Create New Virtual Device", choose a phone category (e.g., Pixel XL), select Android R, and make sure to select "Hardware" for the Graphics option (to maintain emulator speed).
 
-6. **Dart Programming Language**: While Dart may be less familiar than languages like Java or Swift, it is a modern, object-oriented language that is easy to learn and provides a productive development experience.
+### Visual Studio Code (VS Code) Installation
 
-7. **Google Backing**: As a Google-backed project, Flutter benefits from the company's resources, expertise, and long-term commitment to the framework, ensuring its continued development and support.
+1. Download and install VS Code.
+2. Install the Flutter and Dart extensions.
 
-## What Do Students Need to Know Before Flutter Framework?
+### Creating your first Flutter app
 
-Before diving into the Flutter framework, there are a few important concepts and skills that students should have a good understanding of to ensure a smooth and productive learning experience:
+1. In VS Code, go to the Command Palette (View > Command Palette) and choose "New Project".
 
-1. **Programming Fundamentals**:
-   - Proficiency in the Dart programming language is highly recommended.
-   - Knowledge of basic programming concepts like data types, control structures, functions, and object-oriented programming.
+- [Complete Guide to Install Flutter VSCODE, Android studio | With emulator | 2024] (https://www.youtube.com/watch?v=0x2M69D7wKw&t=4s)
 
-2. **Mobile App Development Basics**:
-   - Familiarity with the core components of mobile app development, such as UI elements, navigation, and application lifecycle.
-   - Understanding of the differences between iOS and Android platforms and their respective design patterns and guidelines.
 
-3. **Software Development Principles**:
-   - Grasp of software design patterns, data structures, and algorithms.
-   - Ability to write clean, maintainable, and testable code.
+## Resources
 
-4. **Dart Programming Language**:
-   - Thorough understanding of the Dart programming language, as it is the primary language used in Flutter development.
-   - Knowledge of Dart's syntax, data types, control flow, and object-oriented features.
+- [Flutter Documentation](https://flutter-ko.dev/docs)
+- [Flutter Tutorials](https://flutter-ko.dev/docs/codelabs)
+- [material design](https://material.io/design)
+- [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 
-5. **Version Control and Tooling**:
-   - Familiarity with version control systems, such as Git, and the ability to use them effectively.
-   - Familiarity with popular Integrated Development Environments (IDEs) like Android Studio, Xcode, or Visual Studio Code.
+- [flutter tutorial for beginners] (https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
-6. **Problem-Solving and Debugging Skills**:
-   - Ability to analyze and debug code, identify and fix issues, and handle errors and exceptions.
-   - Strong problem-solving skills to tackle complex challenges during the development process.
 
+## Flutter Assignment
+- [Flutter Assignment] (Flutter_assignment)
+
+## Flutter exercises
+- [Flutter exercises] (Flutter_exercises)
+
+
+ 
