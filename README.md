@@ -2,7 +2,11 @@
 
 Here you will find resources to help you master building mobile applications using the Flutter framework. Flutter is a popular open-source mobile app development toolkit created by Google, allowing you to develop high-performance, visually attractive, and natively compiled applications for both iOS and Android platforms from a single codebase.
 
-Here is the corrected and arranged version of the instructions in Markdown format:
+
+## Time Management Strategies and Tools for Technology Students in 2024
+- [Time Management Strategies and Tools for Technology Students in 2024](Time Management Strategies and Tools for Technology Students in 2024.pdf)
+
+
 
 ## Installing Flutter and Android Studio
 
@@ -42,6 +46,8 @@ Here is the corrected and arranged version of the instructions in Markdown forma
 ### Creating your first Flutter app
 
 1. In VS Code, go to the Command Palette (View > Command Palette) and choose "New Project".
+
+## Youtube Vidoe For installation
 
 - [Complete Guide to Install Flutter VSCODE, Android studio | With emulator | 2024] (https://www.youtube.com/watch?v=0x2M69D7wKw&t=4s)
 
