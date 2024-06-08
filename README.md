@@ -47,8 +47,8 @@ Here you will find resources to help you master building mobile applications usi
 
 1. In VS Code, go to the Command Palette (View > Command Palette) and choose "New Project".
 
-## Youtube Vidoe For installation
-- [Complete Guide to Install Flutter VSCODE, Android studio | With emulator | 2024](https://www.youtube.com/watch?v=0x2M69D7wKw&t=4s)
+## Youtube Video For installation
+- [Complete Guide to Install Flutter VSCODE, Android studio With emulator 202](https://www.youtube.com/watch?v=0x2M69D7wKw&t=4s)
 
 
 ## Resources
