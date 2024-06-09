@@ -2,11 +2,9 @@
 
 Here you will find resources to help you master building mobile applications using the Flutter framework. Flutter is a popular open-source mobile app development toolkit created by Google, allowing you to develop high-performance, visually attractive, and natively compiled applications for both iOS and Android platforms from a single codebase.
 
-
 ## Time Management Strategies and Tools
+
 - [Time Management Strategies and Tools](Time Management Strategies and Tools for Technology Students in 2024.pdf)
-
-
 
 ## Installing Flutter and Android Studio
 
@@ -48,8 +46,8 @@ Here you will find resources to help you master building mobile applications usi
 1. In VS Code, go to the Command Palette (View > Command Palette) and choose "New Project".
 
 ## Youtube Video For installation
-- [Complete Guide to Install Flutter VSCODE, Android studio With emulator 202](https://www.youtube.com/watch?v=0x2M69D7wKw&t=4s)
 
+- [Complete Guide to Install Flutter VSCODE, Android studio With emulator 202](https://www.youtube.com/watch?v=0x2M69D7wKw&t=4s)
 
 ## Resources
 
@@ -60,17 +58,14 @@ Here you will find resources to help you master building mobile applications usi
 
 - [Flutter tutorial for beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
+## slides
 
-## slides 
-
-- [Introduction of Mobile Application](Introduction of Mobile Application.pdf)
-
+- [Introduction of Mobile Application](Introduction of Mobile Application.pptx)
 
 ## Flutter Assignment
+
 - [Flutter Assignment](Flutter_assignment)
 
 ## Flutter exercises
+
 - [Flutter exercises](Flutter_exercises)
-
-
- 
