@@ -61,6 +61,11 @@ Here you will find resources to help you master building mobile applications usi
 - [Flutter tutorial for beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 
+## slides 
+
+- [Introduction of Mobile Application](Introduction of Mobile Application.pdf)
+
+
 ## Flutter Assignment
 - [Flutter Assignment](Flutter_assignment)
 
