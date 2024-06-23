@@ -70,7 +70,6 @@ Here you will find resources to help you master building mobile applications usi
 - [strings.dart](Dart/strings.dart)
 - [variables.dart](Dart/variables.dart)
 
-
 ## slides
 
 - [Introduction of Mobile Application](Introduction of Mobile Application.pptx)

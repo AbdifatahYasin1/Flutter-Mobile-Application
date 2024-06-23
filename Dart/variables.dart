@@ -41,26 +41,26 @@
 //how to create variables in dart
 // dataType variableName = initialValue;
 
-import 'dart:convert';
+// import 'dart:convert';
 
 void main() {
   int age = 28;
   double pi = 3.14;
   String name = 'Khadar ismaaciil';
 
-  // print('Pi:$pi, Age: $age, Name: $name');
+  print('Pi:$pi, Age: $age, Name: $name');
 
-  // var school = 'ilays secondry';
-  // print('Pi:$pi, Age: $age, Name: $name,School: $school');
-  
+  var school = 'ilays secondry';
+  print('Pi:$pi, Age: $age, Name: $name,School: $school');
 
-
+  //check type of var
+  print(school.runtimeType);
+  print(age.runtimeType);
 
   String nameStd1 = "jaamac";
   String nameStd2 = "khadar";
   print(nameStd1 + " " + nameStd2);
 
-  
   var directorName = 'xuseen';
   print('$directorName is a good man');
 }
@@ -68,63 +68,5 @@ void main() {
 
 
 
-
-
-
-
-
-
-
-
-// **Calculator in Dart:**
-// To create a basic calculator in Dart, you can use the `dart:io` library to read user input and perform the calculations:
-
-// ```dart
-// import 'dart:io';
-
-// void main() {
-//   print('Enter the first number:');
-//   double num1 = double.parse(stdin.readLineSync()!);
-
-//   print('Enter the second number:');
-//   double num2 = double.parse(stdin.readLineSync()!);
-
-//   print('Choose an operation (+, -, *, /)');
-//   String operation = stdin.readLineSync()!;
-
-//   double result;
-//   switch (operation) {
-//     case '+':
-//       result = num1 + num2;
-//       break;
-//     case '-':
-//       result = num1 - num2;
-//       break;
-//     case '*':
-//       result = num1 * num2;
-//       break;
-//     case '/':
-//       result = num1 / num2;
-//       break;
-//     default:
-//       print('Invalid operation');
-//       return;
-//   }
-
-//   print('The result is: $result');
-// }
-// ```
-
-// This code will prompt the user to enter two numbers and an operation, then perform the calculation and display the result.
-
-// **int.parse():**
-// The `int.parse()` method is used to convert a string to an integer value. For example:
-// ```dart
-// String numberString = '42';
-// int numberInt = int.parse(numberString);
-// print(numberInt); // Output: 42
-// ```
-
-// I hope this helps! Let me know if you have any further questions.
 
 
