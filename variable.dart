@@ -52,16 +52,9 @@ void main() {
 
   // var school = 'ilays secondry';
   // print('Pi:$pi, Age: $age, Name: $name,School: $school');
-  print(name.contains('j'));
-  print(name.toUpperCase());
+  
 
-  String str = "hello world";
-  int index = str.indexOf("w");
-  print(index);
 
-  // print(name.length);
-  // print(name.isEmpty);
-  // print(name.isNotEmpty);
 
   String nameStd1 = "jaamac";
   String nameStd2 = "khadar";
