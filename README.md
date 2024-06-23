@@ -61,17 +61,14 @@ Here you will find resources to help you master building mobile applications usi
 ## Dart files
 
 - [boolean.dart](Dart/boolean.dart)
-- [calculator.dart](calculator.dart)
-- [conditionals.dart](conditionals.dart)
-- [double.dart](double.dart)
-- [integer.dart](integer.dart)
-- [loops.dart](loops.dart)
-- [math.dart](math.dart)
-- [strings.dart](strings.dart)
-- [variables.dart](variables.dart)
-
-
-
+- [calculator.dart](Dart/calculator.dart)
+- [conditionals.dart](Dart/conditionals.dart)
+- [double.dart](Dart/double.dart)
+- [integer.dart](Dart/integer.dart)
+- [loops.dart](Dart/loops.dart)
+- [math.dart](Dart/math.dart)
+- [strings.dart](Dart/strings.dart)
+- [variables.dart](Dart/variables.dart)
 
 
 ## slides
