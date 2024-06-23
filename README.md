@@ -59,16 +59,17 @@ Here you will find resources to help you master building mobile applications usi
 - [Dart Programming in 4 hours](https://www.youtube.com/watch?v=5xlVP04905w&t=4163s)
 
 ## Dart files
+- [boolean.dart](boolean.dart)
+- [calculator.dart](calculator.dart)
+- [conditionals.dart](conditionals.dart)
+- [double.dart](double.dart)
+- [integer.dart](integer.dart)
+- [loops.dart](loops.dart)
+- [math.dart](math.dart)
+- [strings.dart](strings.dart)
+- [variables.dart](variables.dart)
 
-- [boolean](boolean.dart)
-- [calulcator](calulcator.dart)
-- [condtionals](condtionals.dart)
-- [double](double.dart)
-- [integer](integer.dart)
-- [loops](loops.dart)
-- [math](math.dart)
-- [strings](strings.dart)
-- [variables](variables.dart)
+
 
 ## slides
 
