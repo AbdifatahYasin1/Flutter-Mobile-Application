@@ -56,7 +56,7 @@ Here you will find resources to help you master building mobile applications usi
 - [material design](https://material.io/design)
 - [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 - [Flutter tutorial for beginners](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) 
--[Dart Programming in 4 hours ](https://www.youtube.com/watch?v=5xlVP04905w&t=4163s)
+-[Dart Programming in 4 hours](https://www.youtube.com/watch?v=5xlVP04905w&t=4163s)
 
 ## Dart files
 
