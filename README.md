@@ -60,7 +60,7 @@ Here you will find resources to help you master building mobile applications usi
 
 ## Dart files
 
-- [boolean.dart](boolean.dart)
+- [boolean.dart](Dart/boolean.dart)
 - [calculator.dart](calculator.dart)
 - [conditionals.dart](conditionals.dart)
 - [double.dart](double.dart)
