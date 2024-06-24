@@ -1,4 +1,4 @@
-//for loop
+// // for loop
 
 // void main ()
 // {
@@ -7,7 +7,7 @@
 // }
 // }
 
-//forin
+// forin
 
 // void main() {
 //   List<String> names = [
@@ -71,7 +71,7 @@
 //   }
 // }
 
-// //for each
+// // //for each
 // void main ()
 // {
 //   Map<String, int> ages = {'Alice': 25, 'Bob': 30, 'Charlie': 35};
@@ -81,7 +81,7 @@
 // });
 // }
 
-//while loop
+// while loop
 // void main ()
 // {
 //   int count = 0;
@@ -100,13 +100,13 @@
 // } while (count > 0);
 // }
 
-//infinte loop
+// infinte loop
 
-// void main() {
-//   int count = 0;
-//   while (count < 5) {
-//     // count++;
-//     print('Count: $count');
-//     // No increment of count, leading to an infinite loop
-//   }
-// }
+void main() {
+  int count = 0;
+  while (count < 5) {
+    // count++;
+    print('Count: $count');
+    // No increment of count, leading to an infinite loop
+  }
+}

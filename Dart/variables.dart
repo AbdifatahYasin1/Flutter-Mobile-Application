@@ -44,18 +44,18 @@
 // import 'dart:convert';
 
 void main() {
-  int age = 28;
-  double pi = 3.14;
-  String name = 'Khadar ismaaciil';
+  // int age = 28;
+  // double pi = 3.14;
+  // String name = 'Khadar ismaaciil';
 
-  print('Pi:$pi, Age: $age, Name: $name');
+  // print('Pi:$pi, Age: $age, Name: $name');
 
-  var school = 'ilays secondry';
-  print('Pi:$pi, Age: $age, Name: $name,School: $school');
+  // var school = 'ilays secondry';
+  // print('Pi:$pi, Age: $age, Name: $name,School: $school');
 
-  //check type of var
-  print(school.runtimeType);
-  print(age.runtimeType);
+  // // check type of var
+  // print(school.runtimeType);
+  // print(age.runtimeType);
 
   String nameStd1 = "jaamac";
   String nameStd2 = "khadar";
