@@ -99,35 +99,27 @@ Here you will find resources to help you master building mobile applications usi
 
 ### calculator
    - Implement a simple calculator that can perform addition, subtraction, multiplication, and division.
-   - Write a program that calculates the area of a rectangle given its length and width.
-
+  
 ### conditionals
-   - Write a program that checks if a person is eligible for a senior citizen discount (age >= 65).
-   - Create a program that determines the letter grade of a student based on their percentage score.
+   - Create a program that determines the letter grade of a student based on their percentage score. Check if the students grade is A, B, C, D, or F. if the grade is above 80, print "A". if the grade is between 60 and 80, print "B". if the grade is between 40 and 60, print "C". if the grade is between 20 and 40, print "D". if the grade is below 20, print "F".
 
 ### double
-   - Write a program that calculates the circumference of a circle given its radius.
-   - Create a program that converts Celsius to Fahrenheit.
+   - Create varaible which can hold double and check if it is double or not.
 
 ### integer
    - Write a program that calculates the sum of the first 10 natural numbers.
-   - Create a program that finds the factorial of a given number.
 
-### loops.dart:
-   - Write a program that prints the multiplication table of a given number.
-   - Create a program that prints the first 20 Fibonacci numbers.
+### loops
+   - create a list of names from 1 to 50 and use for loop to print the names.
 
 ### math
-   - Write a program that calculates the square root of a given number.
-   - Create a program that finds the maximum and minimum of three numbers.
+   - try to use math operators in dart to caluclate the max,min and power of a number.
 
 ### strings
    - Write a program that reverses a given string.
-   - Create a program that checks if a string is a palindrome.
 
 ### variables
-   - Write a program that calculates the total cost of an item, including tax.
-   - Create a program that converts miles to kilometers.
+   - Create a variable which can hold string and check if it is string or not.
 
 ### functions
   - Write a function that takes two numbers and returns their sum.
