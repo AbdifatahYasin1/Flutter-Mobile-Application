@@ -69,16 +69,62 @@ Here you will find resources to help you master building mobile applications usi
 - [math.dart](Dart/math.dart)
 - [strings.dart](Dart/strings.dart)
 - [variables.dart](Dart/variables.dart)
+- [functions.dart](Dart/functions.dart)
+- [list.dart](Dart/list.dart)
+- [classes.dart](Dart/classes.dart)
+- [constructor.dart](constructor.dart)
+- [bmicalculator.dart](bmicalculator.dart)
+- [inheritance.dart](inheritance.dart)
 
 ## slides
 
 - [Introduction of Mobile Application](Introduction of Mobile Application.pptx)
 - [Getting Started with Dart](Getting Started with Dart.pptx)
+- [Advanced Dart](Advanced Dart.pptm)
 
 ## Flutter Assignment
 
-- [Flutter Assignment](Flutter_assignment)
+- [Mastering the dart fundemantels](Mastering the dart fundemantels.docx)
 
 ## Flutter exercises
 
-- [Flutter exercises](Flutter_exercises)
+### boolean.dart:
+   - Write a program that checks if a number is even or odd.
+   - Create a boolean variable and use it to determine if a person is eligible to vote (age >= 18).
+
+### calculator.dart:
+   - Implement a simple calculator that can perform addition, subtraction, multiplication, and division.
+   - Write a program that calculates the area of a rectangle given its length and width.
+
+### conditionals.dart:
+   - Write a program that checks if a person is eligible for a senior citizen discount (age >= 65).
+   - Create a program that determines the letter grade of a student based on their percentage score.
+
+### double.dart:
+   - Write a program that calculates the circumference of a circle given its radius.
+   - Create a program that converts Celsius to Fahrenheit.
+
+### integer.dart:
+   - Write a program that calculates the sum of the first 10 natural numbers.
+   - Create a program that finds the factorial of a given number.
+
+### loops.dart:
+   - Write a program that prints the multiplication table of a given number.
+   - Create a program that prints the first 20 Fibonacci numbers.
+
+### math.dart:
+   - Write a program that calculates the square root of a given number.
+   - Create a program that finds the maximum and minimum of three numbers.
+
+### strings.dart:
+   - Write a program that reverses a given string.
+   - Create a program that checks if a string is a palindrome.
+
+### variables.dart:
+   - Write a program that calculates the total cost of an item, including tax.
+   - Create a program that converts miles to kilometers.
+
+### functions.dart:
+    - Write a function that takes two numbers and returns their sum.
+    - Create a function that checks if a number is prime.
+
