@@ -86,7 +86,7 @@ Here you will find resources to help you master building mobile applications usi
 
 - [Mastering the dart fundemantels](Mastering the dart fundemantels.docx)
 ### Submission Details:
-- Summarize the information in tables where appropriate
+- Use VS code editor to write the code
 - Use course content and context in the response (apply course contents)
 - Submit through email only to shiineali101@gmail.com
 - Submission deadline: July 13th, 2024, 11:59 PM
