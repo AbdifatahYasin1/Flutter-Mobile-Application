@@ -1,12 +1,12 @@
-// //Function declartion
+//Function declartion
 
-// // returnType functionName(parameter1, parameter2, ...) {
-// //   // function body
-// //   return value;
-// // }
+// returnType functionName(parameter1, parameter2, ...) {
+//   // function body
+//   return value;
+// }
 
 
-// //Example
+//Example
 // void main()
 // {
 //   int result = addNumbers(10, 20);
@@ -25,28 +25,28 @@
 //   print('Hello, $name!');
 // };
 
-// // Calling the function expression
-// // greet('Alice'); // Output: Hello, Alice!
+// Calling the function expression
+// greet('Alice'); // Output: Hello, Alice!
 
 
 
 
 
-// Global function
+//Global function
 
 
 
+//This is global variable
+int globalVariable = 10;
 
-// int globalVariable = 10;
-
-// void main ()
-// {
+void main ()
+{
  
-//   int localVariable = 20;
-//   print('Global variable: $globalVariable');
-//   print('Local variable: $localVariable');
+  int localVariable = 20;
+  print('Global variable: $globalVariable');
+  print('Local variable: $localVariable');
 
-// }
+}
 
 //  // Output: Global variable: 10, Local variable: 20
 

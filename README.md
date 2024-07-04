@@ -69,10 +69,14 @@ Here you will find resources to help you master building mobile applications usi
 - [math.dart](Dart/math.dart)
 - [strings.dart](Dart/strings.dart)
 - [variables.dart](Dart/variables.dart)
+
 - [functions.dart](Dart/functions.dart)
 - [bmicalculator.dart](bmicalculator.dart)
+
 - [list.dart](Dart/list.dart)
+
 - [classes.dart](Dart/classes.dart)
+
 - [constructor.dart](constructor.dart)
 - [inheritance.dart](inheritance.dart)
 
