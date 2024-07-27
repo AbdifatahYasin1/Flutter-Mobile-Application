@@ -5,8 +5,8 @@ double calculateBMI(double weight, double height) {
 }
 
 void main() {
-  double weight = 70.0;
-  double height = 1.75;
+  double weight = 80;
+  double height = 1.80;
   double bmi = calculateBMI(weight, height);
   print(bmi);
 }

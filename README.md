@@ -69,14 +69,10 @@ Here you will find resources to help you master building mobile applications usi
 - [math.dart](Dart/math.dart)
 - [strings.dart](Dart/strings.dart)
 - [variables.dart](Dart/variables.dart)
-
 - [functions.dart](Dart/functions.dart)
 - [bmicalculator.dart](bmicalculator.dart)
-
 - [list.dart](Dart/list.dart)
-
 - [classes.dart](Dart/classes.dart)
-
 - [constructor.dart](constructor.dart)
 - [inheritance.dart](inheritance.dart)
 
@@ -89,43 +85,144 @@ Here you will find resources to help you master building mobile applications usi
 ## Flutter Assignment
 
 - [Mastering the dart fundemantels](Mastering the dart fundemantels.docx)
+
 ### Submission Details:
+
 - Use VS code editor to write the code
 - Use course content and context in the response (apply course contents)
-- Submit through email only to shiineali101@gmail.com
+- Submit through email only to sendtohereyourdocuments@gmail.com
 - Submission deadline: July 13th, 2024, 11:59 PM
 
 ## Flutter exercises
 
 ### boolean
-   - Write a program that checks if a number is even or odd.
-   - Create a boolean variable and use it to determine if a person is eligible to vote (age >= 18).
+
+- Write a program that checks if a number is even or odd.
+- Create a boolean variable and use it to determine if a person is eligible to vote (age >= 18).
 
 ### calculator
-   - Implement a simple calculator that can perform addition, subtraction, multiplication, and division.
-  
+
+- Implement a simple calculator that can perform addition, subtraction, multiplication, and division.
+
 ### conditionals
-   - Create a program that determines the letter grade of a student based on their percentage score. Check if the students grade is A, B, C, D, or F. if the grade is above 80, print "A". if the grade is between 60 and 80, print "B". if the grade is between 40 and 60, print "C". if the grade is between 20 and 40, print "D". if the grade is below 20, print "F".
+
+- Create a program that determines the letter grade of a student based on their percentage score. Check if the students grade is A, B, C, D, or F. if the grade is above 80, print "A". if the grade is between 60 and 80, print "B". if the grade is between 40 and 60, print "C". if the grade is between 20 and 40, print "D". if the grade is below 20, print "F".
 
 ### double
-   - Create varaible which can hold double and check if it is double or not.
+
+- Create varaible which can hold double and check if it is double or not.
 
 ### integer
-   - Write a program that calculates the sum of the first 10 natural numbers.
+
+- Write a program that calculates the sum of the first 10 natural numbers.
 
 ### loops
-   - create a list of names from 1 to 50 and use for loop to print the names.
+
+- create a list of names from 1 to 50 and use for loop to print the names.
 
 ### math
-   - try to use math operators in dart to caluclate the max,min and power of a number.
+
+- try to use math operators in dart to caluclate the max,min and power of a number.
 
 ### strings
-   - Write a program that reverses a given string.
+
+- Write a program that reverses a given string.
 
 ### variables
-   - Create a variable which can hold string and check if it is string or not.
+
+- Create a variable which can hold string and check if it is string or not.
 
 ### functions
-  - Write a function that takes two numbers and returns their sum.
-  - Create a function that checks if a number is prime.
 
+- Write a function that takes two numbers and returns their sum.
+- Create a function that checks if a number is prime.
+
+## Advanced Flutter Resources
+- **State Management**: Effectively managing the state of your application using solutions like Provider, Bloc, Riverpod, and GetX.
+- Example of a State Management Solution:
+  - Provider:
+  - [Provider](https://pub.dev/packages/provider)
+  - Bloc:
+  - [Bloc](https://pub.dev/packages/bloc)
+  - Riverpod:
+  - [Riverpod](https://pub.dev/packages/riverpod)
+  - GetX:
+  - [GetX](https://pub.dev/packages/get)
+- **Navigation and Routing**: Implementing advanced navigation features, including Navigator 2.0, Auto Route, and deep linking.
+  -Example of Navigation and Routing Solution:
+  - Navigator 2.0:
+  - [Navigator 2.0](https://flutter.dev/docs/development/tools/navigation)
+  - Auto Route:
+  - [Auto Route](https://pub.dev/packages/auto_route)
+  - Deep Linking:
+  - [Deep Linking](https://flutter.dev/docs/development/ui/navigation/deep-linking)
+- **Dependency Injection**: Leveraging dependency injection frameworks like GetIt, Kiwi, and Modular to improve modularity and testability.
+- Example of Dependency Injection Solution:
+  - GetIt:
+  - [GetIt](https://pub.dev/packages/get_it)
+  - Kiwi:
+  - [Kiwi](https://pub.dev/packages/kiwi)
+  - Modular:
+  - [Modular](https://pub.dev/packages/modular)
+- **Animations and Gestures**: Creating smooth, custom animations and handling various user gestures, such as taps, swipes, and long presses.
+  -Example of Animations and Gestures Solution:
+  - Animations:
+  - [Flutter Animations](https://flutter.dev/docs/development/ui/animations)
+  - Gestures:
+  - [Flutter Gestures](https://flutter.dev/docs/development/ui/advanced/gestures)
+- **Networking and API Calls**: Efficiently managing network requests and API calls using libraries like dio, Retrofit, and GraphQL.
+- Example of Networking and API Calls Solution:
+  - Dio:
+  - [Dio](https://pub.dev/packages/dio)
+  - Retrofit:
+  - [Retrofit](https://pub.dev/packages/retrofit)
+  - GraphQL:
+  - [GraphQL](https://pub.dev/packages/graphql)
+- **Internationalization and Localization**: Enabling your app to support multiple languages and locales using packages like intl, easy_localization, and Localizely.
+- Example of Internationalization and Localization Solution:
+  - intl:
+  - [intl](https://pub.dev/packages/intl)
+  - easy_localization:
+  - [easy_localization](https://pub.dev/packages/easy_localization)
+  - Localizely:
+  - [Localizely](https://localizely.com/)
+- **Testing and Quality Assurance**: Implementing comprehensive testing strategies, including unit tests, integration tests, and golden tests.
+- Example of Testing and Quality Assurance Solution:
+
+  - Unit Tests:
+  - [Flutter Testing](https://flutter.dev/docs/testing)
+  - Integration Tests:
+  - [Integration Testing](https://flutter.dev/docs/testing/integration-tests)
+  - Golden Tests:
+  - [Golden Tests](https://pub.dev/packages/golden_toolkit)
+  - CI/CD:
+  - [CI/CD](https://flutter.dev/docs/deployment/cd)
+  - Code Quality:
+  - [Code Quality](https://flutter.dev/docs/development/tools/code-quality)
+
+- **Performance and Optimization**: Optimizing your app's performance through techniques like using Isolates, managing memory, and implementing efficient scrolling and lists.
+- Example of Performance and Optimization Solution:
+  - Isolates:
+  - [Isolates](https://flutter.dev/docs/development/packages-and-plugins/background-processes)
+  - Memory Management:
+  - [Memory Management](https://flutter.dev/docs/development/data-and-backend/memory-management)
+  - Efficient Scrolling:
+  - [Efficient Scrolling](https://flutter.dev/docs/development/ui/advanced/scrolling)
+  - Lists:
+  - [Lists](https://flutter.dev/docs/development/ui/widgets/layout)
+- **Platforms and Plugins**: Integrating platform-specific features, developing custom plugins, and leveraging Firebase services.
+- Example of Platforms and Plugins Solution:
+  - Platform-Specific Features:
+  - [Platform Channels](https://flutter.dev/docs/development/platform-integration/platform-channels)
+  - Custom Plugins:
+  - [Custom Plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages)
+  - Firebase Services:
+  - [Firebase](https://firebase.google.com/)
+- **Architectural Patterns**: Applying architectural patterns like Clean Architecture, MVVM, and MobX to create well-structured and maintainable Flutter applications.
+- Example of Architectural Patterns Solution:
+  - Clean Architecture:
+  - [Clean Architecture](https://flutter.dev/docs/development/data-and-backend/json)
+  - MVVM:
+  - [MVVM](https://flutter.dev/docs/development/data-and-backend/mvvm)
+  - MobX:
+  - [MobX](https://pub.dev/packages/mobx)

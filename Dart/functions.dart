@@ -6,21 +6,22 @@
 // }
 
 
-//Example
+// Example
 // void main()
 // {
 //   int result = addNumbers(10, 20);
 //   print(result);
 //   greet('Alice');
 // }
+
 // int addNumbers(int a, int b) {
 //  return a + b;
 // }
 
 
-// //Function expression
+// // //Function expression
 
-// // Function expression
+// //  Function expression
 // var greet = (String name) {
 //   print('Hello, $name!');
 // };
@@ -36,7 +37,7 @@
 
 
 
-//This is global variable
+// This is global variable
 int globalVariable = 10;
 
 void main ()

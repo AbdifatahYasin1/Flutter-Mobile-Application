@@ -1,37 +1,40 @@
 void main() {
   // Creating an empty list
   List<int> numbers = [];
+
   print(numbers);
 // Creating a list with initial values
   List<String> names = ['Alice', 'Bob', 'Charlie'];
   print(names);
 
   List<int> listOfNumbers = [1, 2, 3, 4, 5];
+  print(listOfNumbers);
 
-// Accessing elements by index
+// // Accessing elements by index
   print(listOfNumbers[0]); // Output: 1
   print(listOfNumbers[2]); // Output: 3
 
-  // adding numbers to the list
+//   // adding numbers to the list
   listOfNumbers.add(10);
   listOfNumbers.insert(0, 900);
   listOfNumbers.addAll([70, 20, 30, 40]);
   print(listOfNumbers);
 
-  //removing numbers from the list
+//   //removing numbers from the list
   listOfNumbers.remove(10);
   listOfNumbers.removeAt(0);
-  // exmaple of range
+  print(listOfNumbers);
+//   // exmaple of range
   List<int> range = [1, 2, 3, 4, 5, 6];
   print(range);
   range.removeRange(0, 4);
   print("This is  range $range");
   print(listOfNumbers);
 
-  // modifying elements
+//   // modifying elements
   List<int> modify = [1, 2, 3, 4, 5];
 
-// Modifying an element by index
+// // Modifying an element by index
   modify[2] = 10;
   print("This is modify $modify"); // Output: [1, 2, 10, 4, 5]
 
@@ -77,4 +80,5 @@ List<int> numbersTwo = [4, 5, 6];
 List<int> combinedItems = [0,9,10, ...numbersOne , 7, ...numbersTwo];
 print(combinedItems);
 print("Combined numbers whith spread operator ${combinedItems}");
+//
 }
