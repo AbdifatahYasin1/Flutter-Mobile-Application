@@ -78,12 +78,12 @@ Here you will find resources to help you master building mobile applications usi
 
 ## slides
 
-- [Introduction of Mobile Application](Introduction of Mobile Application.pptx)
-- [Getting Started with Dart](Getting Started with Dart.pptx)
-- [Advanced Dart](Advanced Dart.pptm)
-- [flutter widgets](flutter widgets.pptx)
-- [flutter widgets2](flutter widgets2.pptx)
-- [advanced widgets](advanced widgets.pptx)
+- [Introduction of Mobile Application](IntroductionofMobileApplication.pptx)
+- [Getting Started with Dart](GettingStartedwithDart.pptx)
+- [Advanced Dart](AdvancedDart.pptm)
+- [flutter widgets](Flutterwidgets.pptx)
+- [flutter widgets2](FlutterWidgetspart2.pptx)
+- [advanced widgets](Adnvaedwidgets.pptx)
 
 ## Flutter Assignment
 
