@@ -141,6 +141,7 @@ Here you will find resources to help you master building mobile applications usi
 - Create a function that checks if a number is prime.
 
 ## Advanced Flutter Resources
+
 - **State Management**: Effectively managing the state of your application using solutions like Provider, Bloc, Riverpod, and GetX.
 - Example of a State Management Solution:
   - Provider:
@@ -230,7 +231,6 @@ Here you will find resources to help you master building mobile applications usi
   - MobX:
   - [MobX](https://pub.dev/packages/mobx)
 
-
 ## Final exam hints
 
 - Hint: Consider the various bitwise operators available in Dart.
@@ -251,3 +251,5 @@ Here you will find resources to help you master building mobile applications usi
 - Hint: Discover the capabilities of the Container widget for layout management in Flutter.
 - Hint: Familiarize yourself with the Flutter widgets used for creating buttons.
 - Hint: Comprehend the role and benefits of StatefulWidget in Flutter development.
+
+Good luck everyone !
