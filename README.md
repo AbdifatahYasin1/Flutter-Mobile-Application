@@ -229,3 +229,25 @@ Here you will find resources to help you master building mobile applications usi
   - [MVVM](https://flutter.dev/docs/development/data-and-backend/mvvm)
   - MobX:
   - [MobX](https://pub.dev/packages/mobx)
+
+
+## Final exam hints
+
+- Hint: Consider the various bitwise operators available in Dart.
+- Hint: Ponder the different ways of representing numeric values in Dart.
+- Hint: Explore the conditional control flow statements in Dart.
+- Hint: Reflect on the role of loops in iterating over data structures.
+- Hint: Examine the benefits of using classes and objects in Dart.
+- Hint: Familiarize yourself with the syntax for defining custom data types in Dart.
+- Hint: Investigate the layout widgets provided by the Flutter framework.
+- Hint: Analyze the different image-related widgets in the Flutter ecosystem.
+- Hint: Explore the use cases for the Padding and Alignment widgets in Flutter.
+- Hint: Discover the Flutter widgets designed for creating interactive UI components.
+- Hint: Understand the differences between integer and double data types in Dart.
+- Hint: Review the available arithmetic operators and their properties in Dart.
+- Hint: Investigate the various conditional statements available in Dart.
+- Hint: Explore the different loop constructs and their use cases in Dart.
+- Hint: Examine the features and properties of the Text widget in Flutter.
+- Hint: Discover the capabilities of the Container widget for layout management in Flutter.
+- Hint: Familiarize yourself with the Flutter widgets used for creating buttons.
+- Hint: Comprehend the role and benefits of StatefulWidget in Flutter development.
